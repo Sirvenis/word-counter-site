@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sirvenis.github.io/word-counter-site/sitemap.xml
